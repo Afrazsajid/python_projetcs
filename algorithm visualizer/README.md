@@ -10,8 +10,7 @@ So, you want to see how sorting algorithms work visually? This project is all ab
 
 To get started, follow these simple steps:
 
-1. **Download the ZIP file**: Go ahead and grab the ZIP file from wherever it's hosted.
-2. **Unzip it**: Extract all the contents into a folder on your computer.
+1. **Download the main file**: Go ahead and grab the main file from wherever it's hosted.
 3. **Run `main.py`**: Open up your terminal or command prompt, navigate to the folder where you extracted the files, and run `python main.py`.
 
 That's it! You should see the sorting visualizer window pop up, ready for action.
@@ -20,7 +19,11 @@ That's it! You should see the sorting visualizer window pop up, ready for action
 
 Once the visualizer is up and running, here's what you can do:
 
-- **Press 'R' to Start Sorting**: Hit the 'R' key on your keyboard to kickstart the sorting process. Watch closely as the elements dance around and arrange themselves according to the chosen sorting algorithm.
+- **Press 'R' to Reset **: Hit the 'R' key on your keyboard to REset the List
+- **Press 'Enter' to Start Sorting**: Hit the 'Enter' key on your keyboard to kickstart the sorting process. Watch closely as the elements dance around and arrange themselves according to the chosen sorting algorithm.
+- **Press 'Up key' to increase quantity**: Hit the 'up' key on your keyboard to increase the quantity of container
+- **Press 'Down key' to increase quantity**: Hit the 'up' key on your keyboard to decrease the quantity of container
+  
 
 ## Future Plans
 
