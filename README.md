@@ -1,3 +1,4 @@
+<div style="bakcgroundcolor:black">hyghg</div>
 # Adventures in Python: A Journey Through My Projects
 
 Greetings, fellow coder! 🐍 Welcome to my Python playground, where the journey from `print("Hello, world!")` to multiple projects feels like traversing through a magical forest of code!
