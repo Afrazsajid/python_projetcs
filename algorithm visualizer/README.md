@@ -19,7 +19,7 @@ That's it! You should see the sorting visualizer window pop up, ready for action
 
 Once the visualizer is up and running, here's what you can do:
 
-- **Press 'R' to Reset ** : Hit the 'R' key on your keyboard to REset the List
+- **Press 'R' to Reset** : Hit the 'R' key on your keyboard to REset the List
 - **Press 'Enter' to Start Sorting**: Hit the 'Enter' key on your keyboard to kickstart the sorting process. Watch closely as the elements dance around and arrange themselves according to the chosen sorting algorithm.
 - **Press 'Up key' to increase quantity**: Hit the 'up' key on your keyboard to increase the quantity of container
 - **Press 'Down key' to increase quantity**: Hit the 'up' key on your keyboard to decrease the quantity of container
