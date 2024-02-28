@@ -14,7 +14,7 @@ As I delved deeper into the world of Python, I encountered its quirks and charms
 
 And now, dear reader, allow me to take you on a tour of my favorite Python project: the Algorithm Visualizer!
 
-### Project: [The Algorithm Visualizer](#https://github.com/Afrazsajid/python_projetcs/tree/main/algorithm%20visualizer)
+### Project: [The Algorithm Visualizer](https://github.com/Afrazsajid/python_projetcs/tree/main/algorithm%20visualizer)
 
 Behold, the Algorithm Visualizer! With this project, I've brought the magic of sorting algorithms to life. Watch as elements dance across the screen, rearranging themselves in real-time as sorting algorithms like Bubble Sort and Merge Sort work their magic. It's like a symphony of code and color, a mesmerizing spectacle that never fails to captivate.
 
